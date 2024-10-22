@@ -1,3 +1,3 @@
 # 🚨 This repository moved!
 
-You can find it here: https://github.com/lkbaerenfaenger/learn-terraform-cloud
+You can find it here: https://github.com/pygumby/learn-terraform-cloud
